@@ -37,6 +37,10 @@
       var lightsaberAudioSrc=  safari.extension.baseURI +"audio/sthswng1.WAV";
       var audio = new Audio(lightsaberAudioSrc);
 
+      var lightsaberAudioSrc1=  safari.extension.baseURI +"audio/saberon.wav";
+      var audio1 = new Audio(lightsaberAudioSrc1);
+
+	  audio1.play();
 
       document.body.insertBefore(lightsaber, document.body.firstChild);
 
@@ -93,7 +97,7 @@
     }
 
     function stopIt(){
-      var lightsaberAudioSrc1 =  safari.extension.baseURI +"audio/Swing02.WAV";
+      var lightsaberAudioSrc1 =  safari.extension.baseURI +"audio/saberoff.wav";
       var audio1 = new Audio(lightsaberAudioSrc1);
       audio1.play();
 

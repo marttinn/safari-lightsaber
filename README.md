@@ -12,3 +12,6 @@ We both are working in [Akademio right now](http://www.akademio.xyz) please be a
 
 Here's the course with the initial take on the lightsaber btw:
 [Star Wars Course](http://www.akademio.xyz/beta/starwars)
+
+
+![Demo](https://dl.dropboxusercontent.com/u/80435/lightsaber.gif)

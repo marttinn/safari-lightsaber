@@ -6,7 +6,7 @@ Saber extension for Safari
 
 It will make sounds once you shake it and follow the cursor.
 
-Made entirely for fun and educational purposed based on work of [FranPR9](https://twitter.com/FranPR9) that created the lightsaber in js. (He's working on the safari extesion right as you are reading this ;))
+Made entirely for fun and educational purposed based on work of [FranPR9](https://github.com/FranPR9) that created the lightsaber in js. (He's working on the chrome extension right as you are reading this ;))
 
 We both are working in [Akademio right now](http://www.akademio.xyz) please be an early adopter ;)
 
